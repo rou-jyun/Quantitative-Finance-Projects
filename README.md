@@ -1,3 +1,4 @@
-# financial mathematic project
-### Project name:Calibration and Predictive Performance of Continuous-Time and Discrete-Time Stochastic Volatility Models in Option Pricing.
-#### Abstract:This study presents a comparative analysis of the Heston and GARCH(1,1) option pricing models under extreme market conditions during the COVID-19 crisis.The research covers model formulation, characteristic function derivation, parameter calibration, and empirical pricing performance evaluation. The primary objective is to investigate whether black swan events distort model calibration and affect the accuracy of option pricing. Furthermore, the study examines the capability of both models to capture volatility dynamics and approximate real market conditions during periods of severe financial turbulence. In-sample and out-of-sample analyses are conducted to evaluate pricing stability and predictive performance. The empirical findings suggest that the Heston model achieves lower and more stable pricing errors, indicating superior robustness under highly volatile market conditions.
+# Quantitative Finance Project
+### Record the research project code I did during college
+#### Include two categories:01 Heston/GARCH option pricing & 02 ETF portfolio allocation
+##### Documents have personal information not disclosed, detail can see in my Google file
